@@ -1,0 +1,81 @@
+total percentage of unique words 98.0722253%
+
+1 character total number of words 13473 
+1 character unique number of words 11820
+1 character unique words percentage 87.73101759073703%
+
+2 characters total number of words 58305
+2 character unique number words of 57672
+2 character unique words percentage 98.91432981733985%
+
+3 characters total number of words 23542
+3 character unique number words of 23519
+3 character unique words percentage 99.90230226828646%
+
+4 characters total number of words 19239
+4 character unique number words of 19222
+4 character unique words percentage 99.91163781901346
+
+5 characters total number of words 3038
+5 character unique number words of 3037
+5 character unique words percentage 99.96708360763661%
+
+6 characters total number of words 1309
+6 character unique number words of 1308
+6 character unique words percentage 99.92360580595874%
+
+7 characters total number of words 863
+7 character unique number words of 863
+7 character unique words percentage 100
+
+8 characters total number of words 304
+8 character unique number words of 304
+8 character unique words percentage 100
+
+9 characters total number of words 366
+9 character unique number words of 366
+9 character unique words percentage 100
+
+10 characters total number of words 111
+10 character unique number words of 111
+10 character unique words percentage 100
+
+11 characters total number of words 122
+11 character unique number words of 122
+11 character unique words percentage 100
+
+12 characters total number of words 25
+12 character unique number words of 25
+12 character unique words percentage 100
+
+13 characters total number of words 26
+13 character unique number words of 26
+13 character unique words percentage 100
+
+14 characters total number of words 6
+14 character unique number words of 6
+14 character unique words percentage 100
+
+15 characters total number of words 24
+15 character unique number words of 24
+15 character unique words percentage 100
+
+16 characters total number of words 2
+16 character unique number words of 2
+16 character unique words percentage 100
+
+17 characters total number of words 2
+17 character unique number words of 2
+17 character unique words percentage 100
+
+18 characters total number of words 1
+18 character unique number words of 1
+18 character unique words percentage 100
+
+19 characters total number of words 2
+19 character unique number words of 2
+19 character unique words percentage 100
+
+20 characters total number of words 1
+20 character unique number words of 1
+20 character unique words percentage 100

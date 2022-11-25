@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.Input-hanzi {
+  position:absolute;
+  top: 30px;
+  left: 30px;
+  font-size: 20px;
+  /* height: 100px; */
+}
+
+.Input-pinyin {
+  position:absolute;
+  top: 65px;
+  left: 30px;
+  font-size: 20px;
+  /* height: 100px; */
+}
+
+.Play-button {
+  position:absolute;
+  top: 105px;
+  left: 30px;
+  height: 40px;
+  width: 80px;
+}
+
+.Init-button {
+  position:absolute;
+  top: 147px;
+  left: 30px;
+  height: 40px;
+  width: 80px;
+}
+
+.Download-button {
+  position:absolute;
+  top: 189px;
+  left: 30px;
+  height: 40px;
+  width: 80px;
+}
